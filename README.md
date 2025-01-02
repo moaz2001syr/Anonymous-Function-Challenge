@@ -8,9 +8,10 @@ This project is an interactive web page featuring a "Start" button located at th
 - CSS
 - JavaScript
 ## Key Code Features
-Function generateRandomNumber():
+1- Function generateRandomNumber():
 
 Used to generate random values between 0 and 255 for creating RGB colors.
-1- Timer setInterval():
 
-2- Automatically changes the background color to a randomly generated one every second.
+2- Timer setInterval():
+
+Automatically changes the background color to a randomly generated one every second.
