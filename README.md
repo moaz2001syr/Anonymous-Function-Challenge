@@ -15,3 +15,5 @@ Used to generate random values between 0 and 255 for creating RGB colors.
 2- Timer setInterval():
 
 Automatically changes the background color to a randomly generated one every second.
+
+link: https://moaz2001syr.github.io/Anonymous-Function-Challenge/
